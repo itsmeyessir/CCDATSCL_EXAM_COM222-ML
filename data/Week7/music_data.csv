@@ -1,0 +1,441 @@
+timestamp,artist,title,genres,popularity
+2026-01-09 16:56:00,WYS,By The Sea,"lo-fi, lo-fi hip hop, lo-fi beats",54
+2026-01-09 16:58:00,bCalm,Blessed,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 17:01:00,mell-ø,illume,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 17:03:00,stream_error,Suspended Emotions,"lo-fi, lo-fi hip hop, lo-fi beats",46
+2026-01-09 17:06:00,Bhxa,Ayla,"lo-fi, lo-fi hip hop, lo-fi beats, dark ambient",43
+2026-01-09 17:07:00,Tenno,My Safe Haven,"lo-fi, lo-fi hip hop, lo-fi beats",52
+2026-01-09 17:10:00,GlobulDub,Sail,"lo-fi hip hop, lo-fi beats, lo-fi, jazz beats",38
+2026-01-09 17:13:00,Dontcry,Old Friends,"lo-fi, lo-fi hip hop, lo-fi beats",58
+2026-01-09 17:17:00,DLJ,Passenger,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-09 17:20:00,Aboueb,missed call,lo-fi,35
+2026-01-09 17:22:00,Tenno,Eternal Beauty,"lo-fi, lo-fi hip hop, lo-fi beats",52
+2026-01-09 17:25:00,berezy,Westerly Wind,"jazz beats, lo-fi, lo-fi beats",46
+2026-01-09 17:27:00,mell-ø,Sleep Well,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 17:29:00,Sleepermane,Lumia,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 17:31:00,Lesky,Summer Novel,"lo-fi beats, lo-fi, lo-fi hip hop, jazz beats",45
+2026-01-09 17:34:00,ornaut,juno,lo-fi,41
+2026-01-09 17:36:00,Dinis,Sa Conca,"lo-fi, lo-fi beats",43
+2026-01-09 17:39:00,bCalm,Lotus,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 17:41:00,Lilac,Paper Moon,"lo-fi hip hop, lo-fi, lo-fi beats",46
+2026-01-09 17:43:00,kainbeats,Formless,"lo-fi, lo-fi hip hop, lo-fi beats",59
+2026-01-09 17:46:00,Dimension 32,Et Vincit Per Luce,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-09 17:48:00,Nuver,drift,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2026-01-09 17:51:00,hoogway,Beauty In All Forms,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-09 17:53:00,Tatami Construct,dew slate,"lo-fi, lo-fi hip hop",42
+2026-01-09 17:55:00,bluntone,Endless Universe,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 17:57:00,fnonose,awaiting,"lo-fi, lo-fi beats",56
+2026-01-09 17:59:00,Lomme,Cup of Coffee,"lo-fi hip hop, lo-fi",46
+2026-01-09 18:02:00,WYS,The Bad Party,"lo-fi, lo-fi hip hop, lo-fi beats",54
+2026-01-09 18:05:00,Juliàn,Chill Waters,"lo-fi, lo-fi beats",57
+2026-01-09 18:07:00,Team Astro,Jupiter,"lo-fi hip hop, lo-fi, lo-fi beats",50
+2026-01-09 18:10:00,MyceliumBug,Sleep Well,"lo-fi, jazz beats",51
+2026-01-09 18:12:00,Louk,I'll Meet You At The Station,"lo-fi hip hop, lo-fi",33
+2026-01-09 18:14:00,Laffey,A Kid At Heart,"lo-fi hip hop, lo-fi, lo-fi beats",58
+2026-01-09 18:17:00,Lawrence Walther,Sand Cottage,"lo-fi, lo-fi hip hop, lo-fi beats",50
+2026-01-09 18:20:00,kyu,Stargazing,"lo-fi hip hop, lo-fi",46
+2026-01-09 18:23:00,Intoku,Noctu,"lo-fi, lo-fi hip hop",42
+2026-01-09 18:24:00,Julián Aponte,Floating adrift,lo-fi,44
+2026-01-09 18:27:00,mujo,Sleeping On Clouds,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",55
+2026-01-09 18:29:00,goson,Endless Beauty,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2026-01-09 18:32:00,Nuver,The Place Where I Belong,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2026-01-09 18:35:00,Elijah Lee,Until We Meet Again,"lo-fi hip hop, lo-fi",50
+2026-01-09 18:37:00,Lucid Keys,The Sleeping Bishop,lo-fi,54
+2026-01-09 18:39:00,Laffey,Crush,"lo-fi hip hop, lo-fi, lo-fi beats",58
+2026-01-09 18:42:00,Tom Doolie,In Your Eyes,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-09 18:43:00,Just Steezy Things,Running Up The Tab,"jazz beats, lo-fi",44
+2026-01-09 18:47:00,Living Room,City Whispers,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2026-01-09 18:49:00,Softy,Lavish,"lo-fi hip hop, lo-fi, lo-fi beats",65
+2026-01-09 18:51:00,fnonose,Goodnight,"lo-fi, lo-fi beats",56
+2026-01-09 18:54:00,Softy,Lost Tapes,"lo-fi hip hop, lo-fi, lo-fi beats",65
+2026-01-09 18:56:00,Tibeauthetraveler,The Goodbye,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 18:59:00,brillion.,Stardust,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-09 19:01:00,Kupla,Carousel,"lo-fi hip hop, lo-fi, lo-fi beats",55
+2026-01-09 19:04:00,Purrple Cat,Sleepless,"lo-fi, lo-fi hip hop, lo-fi beats",58
+2026-01-09 19:07:00,Phlocalyst,Wrong Timing,"lo-fi, lo-fi hip hop, jazz beats, lo-fi beats",60
+2026-01-09 19:09:00,Bert,fuji,"lo-fi hip hop, lo-fi",43
+2026-01-09 19:12:00,bCalm,calm descent,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 19:14:00,Tibeauthetraveler,Childlike Wonder,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 19:18:00,thatlofiguy,Timeless Memories,lo-fi,36
+2026-01-09 19:20:00,Nadav Cohen,I'll be here in the morning,"lo-fi, lo-fi hip hop",51
+2026-01-09 19:23:00,Kokoro,Cailín,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-09 19:27:00,LUQĘT,Mystical Resonance,lo-fi,48
+2026-01-09 19:29:00,bCalm,hope,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 19:31:00,goodnyght,time for bed,"lo-fi hip hop, lo-fi",39
+2026-01-09 19:34:00,cxlt.,What A Day,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-09 19:36:00,J'San,Côte d'Azur,"lo-fi, lo-fi beats, lo-fi hip hop",52
+2026-01-09 19:39:00,Living Room,Exhausting,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2026-01-09 19:41:00,STEEZY PRIME,in the air,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 19:44:00,bluntone,Lebegő,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 19:46:00,Osaki,An Endless Dream,"lo-fi, lo-fi hip hop",48
+2026-01-09 19:49:00,Nadav Cohen,Feel the fire,"lo-fi, lo-fi hip hop",51
+2026-01-09 19:51:00,Lenny Loops,Cycles,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-09 19:54:00,azayaka,Autumn Breeze,"lo-fi, lo-fi beats, christian lo-fi",48
+2026-01-09 19:56:00,Elijah Lee,Waves,"lo-fi hip hop, lo-fi",50
+2026-01-09 19:58:00,Amies,Fragments,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 20:01:00,Blue Wednesday,the songbird and the bookworm - instrumental,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 20:03:00,dosi,When I Remember You,"lo-fi, lo-fi beats",56
+2026-01-09 20:06:00,dosi,Something Missing,"lo-fi, lo-fi beats",56
+2026-01-09 20:08:00,Mondo Loops,Ancient Map,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-09 20:11:00,WYS,San Francisco,"lo-fi, lo-fi hip hop, lo-fi beats",54
+2026-01-09 20:13:00,HOKØ,Bords de Marne,"lo-fi, jazz beats",51
+2026-01-09 20:15:00,Tibeauthetraveler,Fields of Gray,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-09 20:17:00,hoogway,A Place I Love,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-09 20:19:00,blurred figures,flower dance,"lo-fi hip hop, lo-fi",46
+2026-01-09 20:22:00,Kioko,The Phantom Traveler,lo-fi,40
+2026-01-09 20:24:00,Aisake,Faded memory,"lo-fi, lo-fi beats",47
+2026-01-09 20:26:00,Krynoze,Companion,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2026-01-09 20:28:00,bluntone,Serenityville,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 20:31:00,Theo Aabel,sova,lo-fi,49
+2026-01-09 20:33:00,MAU,les jours d'après,"lo-fi, lo-fi hip hop",37
+2026-01-09 20:34:00,brillion.,Bloom,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-09 20:37:00,Yasumu,Mirror of Time,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 20:40:00,another silent weekend,lookout,"lo-fi, lo-fi hip hop, lo-fi beats",46
+2026-01-09 20:43:00,Yasumu,Untold Stories,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 20:45:00,bluntone,Grúz,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-09 20:47:00,Sátyr,After Sun,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",51
+2026-01-09 20:50:00,Late Night Tones,Shortstop,"lo-fi, lo-fi beats",52
+2026-01-09 20:52:00,A[way],Warm Nights,"lo-fi hip hop, lo-fi, lo-fi beats",38
+2026-01-09 20:54:00,Plant Guy,Towards The Mountains,"lo-fi, lo-fi hip hop",39
+2026-01-09 20:59:00,BVG,Constellations,"lo-fi hip hop, lo-fi",48
+2026-01-09 21:01:00,Guy Rickard,Sleeping City,"jazz beats, lo-fi",41
+2026-01-09 21:04:00,Blue Fox,Elf,"lo-fi, lo-fi beats",44
+2026-01-09 21:06:00,dosi,Forgotten Past,"lo-fi, lo-fi beats",56
+2026-01-09 21:08:00,No Spirit,In The Zone,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-09 21:11:00,Casiio,Passing By,"lo-fi hip hop, lo-fi, lo-fi beats",61
+2026-01-09 21:13:00,goosetaf,Spend Some Time,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-09 21:15:00,Yasumu,Midnight Thoughts,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 20:56:00,Project AER,Where We Are,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-09 21:18:00,dosi,Mystery,"lo-fi, lo-fi beats",56
+2026-01-09 21:20:00,hoogway,Fragments Of The Moon,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-09 21:22:00,Krynoze,Furry Cuddles,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2026-01-09 21:25:00,fnonose,amarillo,"lo-fi, lo-fi beats",56
+2026-01-09 21:27:00,juniorodeo,Fig Trees,"lo-fi hip hop, lo-fi, lo-fi beats",47
+2026-01-09 21:30:00,Yasumu,I Thought We Were Friends,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-09 21:32:00,Thaehan,refaire le monde,"lo-fi, lo-fi hip hop, lo-fi beats",53
+2026-01-09 21:34:00,Casiio,Pearls,"lo-fi hip hop, lo-fi, lo-fi beats",61
+2026-01-09 21:38:00,Chiccote'S Beats,Lullaby,"lo-fi hip hop, lo-fi, lo-fi beats",42
+2026-01-09 21:41:00,No Spirit,Carry Me,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-09 21:44:00,Kanisan,hopeful dreams,"lo-fi hip hop, lo-fi, lo-fi beats",57
+2026-01-09 21:46:00,fnonose,Sunset In Oslo,"lo-fi, lo-fi beats",56
+2026-01-09 21:49:00,Tosso,Night Shift,lo-fi,38
+2026-01-09 21:50:00,cxlt.,Without You,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-09 21:53:00,dosi,Sunday Memories,"lo-fi, lo-fi beats",56
+2026-01-09 21:55:00,Lawrence Walther,Tiger Lily,"lo-fi, lo-fi hip hop, lo-fi beats",50
+2026-01-10 16:35:00,Dimension 32,Lacrima Rossa,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-10 16:38:00,dosi,When I Remember You,"lo-fi, lo-fi beats",56
+2026-01-10 16:41:00,Softy,Hush,"lo-fi hip hop, lo-fi, lo-fi beats",65
+2026-01-10 16:43:00,fnonose,blue room,"lo-fi, lo-fi beats",56
+2026-01-10 16:45:00,Phlocalyst,Limits,"lo-fi, lo-fi hip hop, jazz beats, lo-fi beats",60
+2026-01-10 16:47:00,Dimension 32,Spring Fields - Live Session,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-10 16:51:00,Softy,Gone Alone,"lo-fi hip hop, lo-fi, lo-fi beats",65
+2026-01-10 16:56:00,Tibeauthetraveler,Yesteryear,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-10 16:59:00,hoogway,Paper Planes,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-10 17:02:00,SHEATH,Close your eyes,"lo-fi, jazz beats, lo-fi beats",47
+2026-01-10 17:04:00,Tibeauthetraveler,Solace,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-10 17:07:00,Kanisan,Mirage,"lo-fi hip hop, lo-fi, lo-fi beats",57
+2026-01-10 17:10:00,Nuver,space plants,"lo-fi hip hop, lo-fi, lo-fi beats",54
+2026-01-10 17:13:00,hoogway,Fragments Of The Moon,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-11 18:07:00,Arctic Monkeys,Love Is a Laserquest,"indie, garage rock",87
+2026-01-11 18:10:00,The Strokes,Selfless,"garage rock, indie rock, alternative rock",78
+2026-01-11 18:14:00,Djo,End of Beginning,"psychedelic pop, indie pop, indie, indie rock, psychedelic",84
+2026-01-11 18:16:00,Two Door Cinema Club,Undercover Martyn,"indie, indie rock",69
+2026-01-11 18:19:00,Gorillaz,On Melancholy Hill,"electronic, alternative, hip-hop, rock, indie",84
+2026-01-11 18:23:00,Arctic Monkeys,No Buses,"indie, garage rock",87
+2026-01-11 18:30:00,The Strokes,Why Are Sundays So Depressing,"garage rock, indie rock, alternative rock",78
+2026-01-11 18:35:00,Paramore,All I Wanted,"pop punk, emo",82
+2026-01-11 18:38:00,Deftones,Sextape,"nu metal, alternative metal, rap metal, shoegaze, rock",84
+2026-01-11 18:42:00,Arctic Monkeys,Do Me a Favour,"indie, garage rock",87
+2026-01-11 18:26:00,Malcolm Todd,Roommates,"alternative rnb, indie, usa, indie rock, favs ★",80
+2026-01-11 18:46:00,Gorillaz,New Gold (feat. Tame Impala and Bootie Brown),"electronic, alternative, hip-hop, rock, indie",84
+2026-01-11 18:49:00,Tame Impala,Borderline,"neo-psychedelic, indie",86
+2026-01-11 18:53:00,VACATIONS,Young,"indie rock, indie pop, dream pop, indie, soul",71
+2026-01-11 18:57:00,Wallows,Remember When,indie,70
+2026-01-11 18:59:00,Arctic Monkeys,Why'd You Only Call Me When You're High?,"indie, garage rock",87
+2026-01-11 19:02:00,The Fratellis,She's Not Gone Yet But She's Leaving,"indie rock, indie, british, rock, alternative",62
+2026-01-11 19:10:00,Xander.,Wall,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",57
+2026-01-11 19:13:00,Tom Doolie,New Fields,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-11 19:15:00,bluntone,Lebegő,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-11 19:18:00,STEEZY PRIME,in the air,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-11 19:20:00,dryhope,Wanna Know,"lo-fi hip hop, lo-fi, lo-fi beats",51
+2026-01-11 19:22:00,bluntone,Blank Canvas,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-11 19:26:00,Casiio,Mirage,"lo-fi hip hop, lo-fi, lo-fi beats",61
+2026-01-11 19:28:00,So.lo,Under The Sea,"lo-fi, lo-fi hip hop, lo-fi beats",51
+2026-01-11 19:30:00,Sátyr,Enchanted,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",51
+2026-01-11 19:33:00,Gerardo Millán,Echoes from Beyond,lo-fi,47
+2026-01-11 19:36:00,Blue Wednesday,the songbird and the bookworm - instrumental,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-11 19:39:00,Adele,Make You Feel My Love,soft pop,86
+2026-01-11 19:43:00,Adele,When We Were Young,soft pop,86
+2026-01-11 19:47:00,Adele,Rolling in the Deep,soft pop,86
+2026-01-11 19:51:00,Lewis Capaldi,Lost on You,soft pop,81
+2026-01-11 19:55:00,Lewis Capaldi,Lost on You,soft pop,81
+2026-01-11 19:59:00,Adele,All Night Parking (with Erroll Garner) Interlude,soft pop,86
+2026-01-11 20:00:00,Adele,Chasing Pavements,soft pop,86
+2026-01-11 19:06:00,Surf Curse,Freaks,indie,71
+2026-01-11 20:05:00,Adele,Set Fire to the Rain,soft pop,86
+2026-01-11 20:09:00,Adele,Easy on Me,soft pop,86
+2026-01-11 20:13:00,Adele,Someone Like You,soft pop,86
+2026-01-11 20:17:00,Adele,Rolling in the Deep,soft pop,86
+2026-01-11 20:21:00,kiyo,Harana sa Sarili,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:25:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:30:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:33:00,kiyo,Pagkabigo,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:37:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:41:00,kiyo,Dantay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:46:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:50:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:54:00,kiyo,G,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 20:59:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:03:00,kiyo,Hanggang Kailan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:07:00,kiyo,"Pantalan, Pt. 1","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:11:00,kiyo,sakay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:15:00,kiyo,Eba,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:19:00,kiyo,brb,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:22:00,kiyo,Harana sa Sarili,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:26:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:31:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:34:00,kiyo,Pagkabigo,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:38:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:42:00,kiyo,Dantay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:47:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:51:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 21:55:00,kiyo,G,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:00:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:04:00,kiyo,Hanggang Kailan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:08:00,kiyo,"Pantalan, Pt. 1","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:12:00,kiyo,sakay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:16:00,kiyo,Eba,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:20:00,kiyo,brb,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:23:00,kiyo,Harana sa Sarili,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:27:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:31:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:35:00,kiyo,Pagkabigo,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:39:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:43:00,kiyo,Dantay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:48:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:52:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 22:56:00,kiyo,G,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-11 23:01:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:38:00,kiyo,Harana sa Sarili,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:42:00,kiyo,Ikaw Lang,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:46:00,kiyo,Dantay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:51:00,kiyo,HEY,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:55:00,kiyo,Pagkabigo,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 17:59:00,kiyo,"Pantalan, Pt. 2","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:03:00,kiyo,Shineboi,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:08:00,kiyo,"Pantalan, Pt. 1","pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:12:00,kiyo,G,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:17:00,kiyo,Nandito Na,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:20:00,kiyo,sakay,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:24:00,kiyo,Okay lang yan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:28:00,kiyo,Hanggang Kailan,"pinoy hip hop, opm, pinoy r&b, harana, parang, p-pop",62
+2026-01-12 18:32:00,IV Of Spades,Tamis ng Pagkakamali,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:36:00,IV Of Spades,Aura,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:41:00,IV Of Spades,Karma,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:45:00,IV Of Spades,Tangerine Boulevard,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:50:00,IV Of Spades,Kabisado,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:53:00,IV Of Spades,Rewind,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 18:57:00,IV Of Spades,Suliranin,"opm, pinoy indie, harana, p-pop, parang, kundiman",69
+2026-01-12 19:00:00,Mac Miller,Come Back to Earth,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:03:00,Mac Miller,Hurt Feelings,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:07:00,Mac Miller,What's the Use?,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:12:00,Mac Miller,Perfecto,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:16:00,Mac Miller,Self Care,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:21:00,Mac Miller,Wings,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:26:00,Mac Miller,Ladders,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:30:00,Mac Miller,Small Worlds,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:35:00,Mac Miller,Conversation Pt. 1,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:38:00,Mac Miller,Dunno,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:42:00,Mac Miller,Jet Fuel,"hip-hop, rap, underground hip-hop, hip hop, pittsburgh",84
+2026-01-12 19:46:00,Galimatias,Homicide,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:47:00,Galimatias,Just One Time,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:50:00,Galimatias,You're Famous,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:50:00,Galimatias,Far From Home,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:53:00,Galimatias,Firestorm,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:55:00,Galimatias,Polyester City,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 19:58:00,Galimatias,Responsible,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:01:00,Galimatias,Vipassana 2025,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:04:00,Galimatias,Amber,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:08:00,Galimatias,Don't Need To Know,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:10:00,Galimatias,20 Second Century,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:11:00,Galimatias,Start Over,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:14:00,Galimatias,Blue Human,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:16:00,Galimatias,Homicide,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:17:00,Galimatias,Just One Time,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-12 20:20:00,"Tyler, The Creator",ARE WE STILL FRIENDS?,"hip-hop, rap, ofwgkta, underground hip-hop, swag",88
+2026-01-12 20:24:00,"Tyler, The Creator",IGOR'S THEME,"hip-hop, rap, ofwgkta, underground hip-hop, swag",88
+2026-01-12 20:28:00,"Tyler, The Creator",EARFQUAKE,"hip-hop, rap, ofwgkta, underground hip-hop, swag",88
+2026-01-12 20:30:00,J. Cole,Wet Dreamz,rap,85
+2026-01-12 20:34:00,Metro Boomin,Trance (with Travis Scott & Young Thug),"trap, rap, hip-hop, hip hop, southern hip hop",87
+2026-01-13 17:40:00,Tibeauthetraveler,Deep Breath,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-13 17:42:00,EnRa,Myst,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-13 17:45:00,bCalm,Deep Sea,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-13 17:47:00,Lilac,Nemui,"lo-fi hip hop, lo-fi, lo-fi beats",46
+2026-01-13 17:51:00,Lenny Loops,Wandering,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-13 17:53:00,møndberg,Backyard Memories,"lo-fi hip hop, lo-fi",47
+2026-01-13 17:56:00,Osaki,Violet,"lo-fi, lo-fi hip hop",48
+2026-01-13 17:58:00,Nokiaa,Falls,"lo-fi beats, lo-fi hip hop, lo-fi",51
+2026-01-13 18:00:00,Tatami Construct,good friends,"lo-fi, lo-fi hip hop",43
+2026-01-13 18:03:00,No Spirit,Pablo's Dream,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-13 18:05:00,Aboueb,missed call,lo-fi,36
+2026-01-13 18:07:00,eugenio izzi,Never be prey to the winds,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-13 18:10:00,hoogway,After You,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-13 18:12:00,Towerz,Distant Thoughts,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2026-01-13 18:15:00,HOKØ,Sweetness of the Past,"lo-fi, jazz beats",51
+2026-01-13 18:18:00,Thaehan,Why Am I Here,"lo-fi, lo-fi hip hop, lo-fi beats",54
+2026-01-13 18:20:00,Towerz,Before The Fall,"lo-fi hip hop, lo-fi, lo-fi beats",53
+2026-01-13 18:23:00,Lenny Loops,Remembrance,"lo-fi, lo-fi hip hop, lo-fi beats",56
+2026-01-13 18:25:00,After Noon,Existentialism,lo-fi,52
+2026-01-13 18:27:00,No Spirit,Opal,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-13 18:29:00,Amies,Come Find Me,"lo-fi hip hop, lo-fi, lo-fi beats",57
+2026-01-13 18:33:00,mujo,Escaped,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",55
+2026-01-13 18:35:00,H.1,Breath,"chillhop, electronic, lo-fi, chill, instrumental hip-hop",67
+2026-01-13 18:37:00,dosi,Close The Box,"lo-fi, lo-fi beats",57
+2026-01-13 18:39:00,Lawrence Walther,Juneberry,"lo-fi, lo-fi hip hop, lo-fi beats",51
+2026-01-13 18:42:00,iamalex,Belle,"lo-fi hip hop, lo-fi, lo-fi beats",47
+2026-01-13 18:45:00,Casiio,Moonlight Rays,"lo-fi hip hop, lo-fi, lo-fi beats",61
+2026-01-13 18:47:00,Yasumu,Lightfall,"lo-fi hip hop, lo-fi, lo-fi beats",52
+2026-01-13 18:49:00,nothingtosay,The Dawn,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-13 18:51:00,Gerardo Millán,Echoes from Beyond,lo-fi,47
+2026-01-13 18:54:00,Loafy Building,Glass Currents,"lo-fi, lo-fi hip hop, lo-fi beats",51
+2026-01-13 19:42:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 21:41:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 21:45:00,A$AP Rocky,Punk Rocky,rap,86
+2026-01-13 21:49:00,A$AP Rocky,HELICOPTER,rap,86
+2026-01-13 21:52:00,The Neighbourhood,Pretty Boy,"indie, indie rock, indie pop, rock, alternative",86
+2026-01-13 21:56:00,Malcolm Todd,You Owe Me,"alternative rnb, indie, usa, indie rock, favs ★",80
+2026-01-13 21:59:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:04:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:07:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:11:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:15:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:19:00,A$AP Rocky,Trunks,rap,86
+2026-01-13 22:22:00,A$AP Rocky,Trunks,rap,86
+2026-01-14 16:08:00,Mondo Loops,Savoured Breath,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-14 16:11:00,Softy,Rover,"lo-fi hip hop, lo-fi, lo-fi beats",65
+2026-01-14 16:13:00,Tibeauthetraveler,Fields of Gray,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-14 16:14:00,STEEZY PRIME,in the air,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-14 16:17:00,allem iversom,Sky Above,"lo-fi hip hop, lo-fi, lo-fi beats",47
+2026-01-14 16:20:00,dryhope,Dweller,"lo-fi hip hop, lo-fi, lo-fi beats",51
+2026-01-14 16:22:00,bluntone,Submerging into Consciousness,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-14 16:24:00,nothingtosay,Inspect,"lo-fi hip hop, lo-fi, lo-fi beats",48
+2026-01-14 16:27:00,brillion.,Bloom,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-14 16:30:00,A[way],Warm Nights,"lo-fi hip hop, lo-fi, lo-fi beats",39
+2026-01-14 16:32:00,No Spirit,Pablo's Dream,"lo-fi hip hop, lo-fi, lo-fi beats",59
+2026-01-14 16:34:00,Swink,Just You,"lo-fi, lo-fi hip hop, lo-fi beats",52
+2026-01-14 16:38:00,Tibeauthetraveler,Crystal clear,"lo-fi, lo-fi hip hop, lo-fi beats",57
+2026-01-14 16:40:00,Bert,fuji,"lo-fi hip hop, lo-fi",43
+2026-01-14 16:43:00,HOKØ,Bords de Marne,"lo-fi, jazz beats",51
+2026-01-14 16:45:00,Krynoze,Life Changing,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2026-01-14 16:48:00,Blue Wednesday,bridge to my heart - instrumental,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-14 16:50:00,Aimless,Catching the Sunrise,"lo-fi hip hop, lo-fi, lo-fi beats",44
+2026-01-14 16:52:00,bluntone,Childhood Flashback,"lo-fi hip hop, lo-fi, lo-fi beats",56
+2026-01-14 16:53:00,hoogway,A Place I Love,"lo-fi hip hop, lo-fi, lo-fi beats",62
+2026-01-14 16:56:00,Phlocalyst,Wrong Timing,"lo-fi, lo-fi hip hop, jazz beats, lo-fi beats",60
+2026-01-14 16:58:00,mujo,Escaped,"lo-fi, lo-fi hip hop, lo-fi beats, jazz beats",55
+2026-01-14 17:00:00,Sebastian Kamae,Berlin,"lo-fi hip hop, lo-fi, lo-fi beats",49
+2026-01-14 17:03:00,inertia.,inner light,"dark ambient, ambient",52
+2026-01-14 17:05:00,Krynoze,Waves Of Questions,"lo-fi, lo-fi hip hop, lo-fi beats",55
+2026-01-14 17:07:00,Purrple Cat,Souvenir,"lo-fi, lo-fi hip hop, lo-fi beats",59
+2026-01-14 17:10:00,Chronodrift,Follow,Unknown,36
+2026-01-14 17:14:00,Lamp,For Lovers,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:15:00,Lamp,HIROGARU-NAMIDA,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:20:00,Lamp,Behind The Moon Shadow,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:25:00,Lamp,6 Goushitsu,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:31:00,Lamp,ゆめうつつ,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:36:00,Lamp,二十歳の恋,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:39:00,Lamp,冬の影は哀しみ,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:42:00,Lamp,夜風,"shibuya-kei, japanese indie, city pop",64
+2026-01-14 17:51:00,Justice Der,Get You,"instrumental, bedroom pop, easy listening, jazz, indie soul",52
+2026-01-14 17:56:00,Justice Der,Waste,"instrumental, bedroom pop, easy listening, jazz, indie soul",52
+2026-01-14 18:02:00,The Neighbourhood,Pretty Boy,"indie, indie rock, indie pop, rock, alternative",86
+2026-01-14 18:06:00,The Neighbourhood,You Get Me So High,"indie, indie rock, indie pop, rock, alternative",86
+2026-01-14 18:09:00,Daniel Caesar,Disillusioned (with serpentwithfeet),"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:13:00,Daniel Caesar,Homiesexual (with Ty Dolla $ign),"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:17:00,Free Nationals,Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra),"funk, soul, neo-soul, alternative rnb, los angeles",60
+2026-01-14 18:23:00,Daniel Caesar,Loose,"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:26:00,Daniel Caesar,We Find Love,"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:30:00,Daniel Caesar,Blessed,"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:34:00,Daniel Caesar,Take Me Away (feat. Syd),"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:38:00,Daniel Caesar,Transform (feat. Charlotte Day Wilson),"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:43:00,Daniel Caesar,Freudian,"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-14 18:50:00,Mykey,Was It Something I Said,bedroom pop,43
+2026-01-14 18:53:00,Cavetown,Green,bedroom pop,69
+2026-01-14 18:59:00,Galimatias,Blowback,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-14 19:03:00,FKJ,Skyline,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-14 19:07:00,Duñe,Blue Window,"future garage, electronic, downtempo, future beats, future garage;dubstep;ambient",48
+2026-01-14 19:11:00,Sensi Sye,don't be shy,"trap, electronic, hip-hop, lounge, future beats",33
+2026-01-14 19:14:00,Joey Pecoraro,Tired Boy,"lo-fi beats, lo-fi, jazz beats, lo-fi hip hop",49
+2026-01-14 19:18:00,Galimatias,Polyester City,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-14 19:21:00,Raveena,Sweet Time,"alternative r&b, indie soul",54
+2026-01-14 19:25:00,FKJ,Die with a Smile,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-14 19:29:00,Duñe,Smile Together,"future garage, electronic, downtempo, future beats, future garage;dubstep;ambient",48
+2026-01-14 19:33:00,Odie,Little Lies,"rnb, canadian, punk, soul, canada",55
+2026-01-14 19:37:00,Galimatias,Everytime,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-14 19:40:00,yndi,We Can't Be Friends,"indie, french, soul, pop, electronica",33
+2026-01-14 19:44:00,Raveena,If Only,"alternative r&b, indie soul",54
+2026-01-14 19:47:00,FKJ,waiting,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-14 19:51:00,edo lee,Black Coffee,"lo-fi hip hop, lo-fi beats, lo-fi",25
+2026-01-14 19:54:00,Galimatias,Don't Need To Know,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-14 19:57:00,Hablot Brown,Color World,"rnb, soul, pop, neo-soul, neosoul",40
+2026-01-14 20:00:00,Saje,Lost Tonight,"chillout, french, idm, electronic, funk_add_to_lidarr_batch_23",37
+2026-01-14 20:04:00,Duñe,Lazy,"future garage, electronic, downtempo, future beats, future garage;dubstep;ambient",48
+2026-01-14 20:07:00,FKJ,We Ain't Feeling Time,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-14 20:11:00,Galimatias,Sly,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-14 20:14:00,((( o ))),iFeel,"experimental, ambient, rnb, drone, alternative rnb",54
+2026-01-14 20:19:00,Raveena,Spell,"alternative r&b, indie soul",54
+2026-01-14 20:22:00,Zeauxi,Party Cone Waltz,Unknown,32
+2026-01-14 20:25:00,53 Thieves,too slow,"electronic, lovestep, trip-hop, future bass, groovy",43
+2026-01-15 17:25:00,A$AP Rocky,Trunks,rap,86
+2026-01-15 17:29:00,The Kid LAROI,NIGHTS LIKE THIS PT 2,"rap, hip-hop, emo rap, australian, pop",83
+2026-01-15 17:33:00,Daniel Caesar,Disillusioned (with serpentwithfeet),"rnb, soul, neo-soul, canadian, alternative rnb",88
+2026-01-15 17:39:00,53 Thieves,dreamin',"electronic, lovestep, trip-hop, future bass, groovy",43
+2026-01-15 17:43:00,Raveena,Spell,"alternative r&b, indie soul",54
+2026-01-15 17:46:00,FKJ,Why Are There Boundaries,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-15 17:49:00,Aaron Taylor,I Think I Love You Again,"indie soul, neo soul",50
+2026-01-15 17:53:00,VBND,Smoke,"electronic, soul, rnb, canada, electronic superhighway",53
+2026-01-15 17:57:00,Moonchild,The List,"neo soul, indie soul, contemporary r&b",50
+2026-01-15 18:02:00,Raveena,Close 2 U,"alternative r&b, indie soul",54
+2026-01-15 18:06:00,Phony Ppl,Why iii Love The Moon.,indie soul,45
+2026-01-15 18:11:00,FKJ,Vibin' Out,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-15 18:17:00,Aaron Taylor,Blue,"indie soul, neo soul",50
+2026-01-15 18:22:00,Zeauxi,July on Film,Unknown,32
+2026-01-15 18:26:00,Raveena,Mama,"alternative r&b, indie soul",54
+2026-01-15 18:30:00,Moonchild,Cure,"neo soul, indie soul, contemporary r&b",50
+2026-01-15 18:34:00,Galimatias,South - 2018,"chillout, chillstep, lounge, electronic, danish",53
+2026-01-15 18:37:00,FKJ,Skyline,"electronic, funk, downtempo, nu jazz, indie",65
+2026-01-15 18:42:00,Kevitch,Sunrise,"electronic, indie, alternative, hip hop, relax",36
+2026-01-15 18:45:00,Raveena,Lucky,"alternative r&b, indie soul",54
+2026-01-15 18:49:00,orion sun,Ne Me Quitte Pas (Don't Leave Me),"alternative r&b, bedroom pop",56
+2026-01-15 18:52:00,Moonchild,Too Much to Ask,"neo soul, indie soul, contemporary r&b",50
+2026-01-15 19:35:00,Djo,Go for It,"psychedelic pop, indie pop, indie rock, indie, psychedelic",85
+2026-01-15 19:38:00,Kanye West,I Thought About Killing You,rap,92
+2026-01-15 19:43:00,Kanye West,Yikes,rap,92
+2026-01-15 19:46:00,Kanye West,All Mine,rap,92
+2026-01-15 19:49:00,Kanye West,Wouldn't Leave,rap,92
+2026-01-15 19:52:00,Kanye West,No Mistakes,rap,92
+2026-01-15 19:54:00,Kanye West,I Thought About Killing You,rap,92
+2026-01-15 19:58:00,Kanye West,I Thought About Killing You,rap,92
+2026-01-15 20:02:00,Kanye West,Ultralight Beam,rap,92
+2026-01-15 20:08:00,Frank Ocean,Nights,"rnb, soul, hip-hop, r&b, ofwgkta",86
+2026-01-15 20:13:00,Frank Ocean,Solo (Reprise),"rnb, soul, hip-hop, r&b, ofwgkta",86
+2026-01-15 20:14:00,EsDeeKid,4 Raws,"cloud rap, rap, jerk, hip-hop, trap",86
+2026-01-15 20:18:00,Travis Scott,KICK OUT,rap,92
+2026-01-15 20:21:00,Offset,Checkmate (Smooth),"trap, rap, hip-hop, travis scott, hip hop",79
+2026-01-15 20:22:00,Kendrick Lamar,Not Like Us,"hip hop, west coast hip hop",91
+2026-01-15 20:27:00,Central Cee,BAND4BAND (feat. Lil Baby),"uk drill, drill, uk grime",82
+2026-01-15 20:29:00,Travis Scott,FE!N (feat. Playboi Carti),rap,92
+2026-01-15 20:33:00,¥$,FIELD TRIP,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:35:00,¥$,RIVER,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:39:00,¥$,PROMOTION,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:42:00,¥$,HUSBAND,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:44:00,¥$,SKY CITY,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:48:00,¥$,TIME MOVING SLOW,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:51:00,¥$,530,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:56:00,¥$,FOREVER,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 20:58:00,¥$,FRIED,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 21:01:00,¥$,FOREVER ROLLING,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 21:04:00,¥$,LIFESTYLE,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 21:08:00,¥$,MY SOUL,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 21:12:00,¥$,DEAD,"hip-hop, rap, hip hop, kanye west, trap",72
+2026-01-15 21:16:00,¥$,BOMB,"hip-hop, rap, hip hop, kanye west, trap",72
